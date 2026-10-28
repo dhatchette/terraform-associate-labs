@@ -1,1 +1,8 @@
 **/.terraform/*
+# Terraform local state files
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+
+# Terraform local execution folder
+.terraform/
