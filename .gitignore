@@ -6,3 +6,4 @@
 
 # Terraform local execution folder
 .terraform/
+.env
